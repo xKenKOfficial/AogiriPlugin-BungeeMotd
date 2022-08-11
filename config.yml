@@ -1,0 +1,6 @@
+# Tutaj mozna ustawic prefix pluginu:
+prefix: "&3&lxKenBungeeMotd"
+
+# Tutaj mozna ustawic motd pluginu:
+motd_1: "{PREFIX} &8>>"
+motd_2: "{PREFIX} &8>>"
